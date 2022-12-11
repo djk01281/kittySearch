@@ -1,0 +1,28 @@
+{
+  "name": "kittysearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server . -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djk01281/kittySearch.git"
+  },
+  "author": "djk01281",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djk01281/kittySearch/issues"
+  },
+  "homepage": "https://github.com/djk01281/kittySearch#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "babel-jest": "^25.1.0",
+    "http-server": "^0.12.0",
+    "jest": "^24.9.0"
+  }
+}
